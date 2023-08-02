@@ -1,0 +1,27 @@
+{
+  "name": "elder-scrolls-tracker",
+  "version": "1.0.0",
+  "description": "Node.js React APIs with Express, PostgreSQL and Sequelize.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Temeculous/elder-scrolls-tracker.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest",
+    "api",
+    "postgresql",
+    "sequelize"
+  ],
+  "author": "connor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Temeculous/elder-scrolls-tracker/issues"
+  },
+  "homepage": "https://github.com/Temeculous/elder-scrolls-tracker#readme"
+}
